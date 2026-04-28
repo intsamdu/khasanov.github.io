@@ -1,0 +1,15 @@
+- course: "Atomic Physics"
+  level: "Undergraduate (BSc)"
+  description: "Fundamentals of atomic structure, radiation processes, and spectroscopy."
+
+- course: "Nuclear Physics"
+  level: "Undergraduate (BSc)"
+  description: "Introduction to nuclear structure, radioactivity, and nuclear reactions."
+
+- course: "Nuclear Energy"
+  level: "Graduate (MSc)"
+  description: "Principles of nuclear energy production, reactor systems, and safety."
+
+- course: "Reactor Physics"
+  level: "Graduate (MSc)"
+  description: "Neutron transport, reactor theory, and computational modeling."

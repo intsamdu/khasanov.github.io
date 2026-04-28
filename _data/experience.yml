@@ -1,0 +1,29 @@
+- title: "Associate Professor"
+  place: "Samarkand State University, Uzbekistan"
+  period: "2019 – Present"
+  description: "Teaching nuclear physics courses, managing projects, and developing laboratory infrastructure."
+
+- title: "Visiting Scholar"
+  place: "Massachusetts Institute of Technology (MIT), USA"
+  period: "2022"
+  description: "Developed reactor physics lab scripts using OpenMC and Python."
+
+- title: "Research Fellow"
+  place: "International Atomic Energy Agency (IAEA), Vienna"
+  period: "2015 – 2016"
+  description: "Performed in-situ gamma spectrometry and radiation data analysis."
+
+- title: "Research Fellow"
+  place: "University of Surrey, UK"
+  period: "2013"
+  description: "Detector calibration and environmental radiation measurements."
+
+- title: "International Trainee"
+  place: "Argonne National Laboratory, USA"
+  period: "2010"
+  description: "Worked on nuclear reactor simulations and safety analysis."
+
+- title: "Researcher / IAEA Counterpart"
+  place: "Samarkand State University"
+  period: "2008 – 2018"
+  description: "Project management, nuclear measurements, and international collaboration."
