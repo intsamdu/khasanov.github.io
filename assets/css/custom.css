@@ -1,0 +1,32 @@
+/* Global typography */
+body {
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+/* Links */
+a {
+  color: #2c7be5;
+}
+a:hover {
+  opacity: 0.8;
+}
+
+/* Cards (universal) */
+.card {
+  border-left: 4px solid #2c7be5;
+  background: #f9fbfd;
+  padding: 15px 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  transition: 0.3s;
+}
+.card:hover {
+  background: #eef5ff;
+  transform: translateY(-2px);
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-weight: 600;
+}
